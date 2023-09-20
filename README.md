@@ -63,6 +63,8 @@ Caso queira alterar o período de análise, basta alterar no segmentador localiz
 
 Também é possível selecionar apenas um mês ou um produto para a análise, no exemplo acima, foi selecionado o mês de outubro e automaticamente todos os gráficos se alteraram para trazer apenas estes dados.
 
+Caso queira voltar aos dados iniciais do relatório, basta clicar no icone de borracha localizado no canto superior direito.
+
 Para acessar a segunda página, basta clicar na seta localizada no canto inferior esquerdo.
 
 #### Página 2 - Relatório de Lucros Detalhado
@@ -72,7 +74,7 @@ Para acessar a segunda página, basta clicar na seta localizada no canto inferio
 
 Já nesta página, podemos observar um detalhamento focado nos lucros, tanto por produto, quanto por ano, país, segmento e até mesmo por trimestre. Na tela inicial temos informações gerais sobre os lucros, mas para uma análise mais detalhada, também é possível utilizar o segmentador para visualizar apenas um ano desejado por exemplo, enquanto na primeira visualização estavamos dando foco para o ano de 2014, nesta, daremos foco ao ano de 2013.
 
-![LucroP2](https://github.com/LucasHProenca/Power-BI-Analyst/assets/106993403/16eec088-4a2b-4299-b912-964532e82e9d)
+![LucroP2](https://github.com/LucasHProenca/Power-BI-Analyst/assets/106993403/de5cc14b-fb0e-4009-9017-013f953142d3)
 
 
 ---
