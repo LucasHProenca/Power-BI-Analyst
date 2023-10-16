@@ -16,7 +16,7 @@
 ## 💻 Sobre o projeto 
 
  
-📟 Sales Report - Este projeto foi desenvolvido com o propósito de se assemelhar a um relátorio de vendas real, com diversas demonstrações e detalhes para melhor expor todas as informações relevantes de uma empresa.
+📟 Sales Report - Este projeto foi desenvolvido com o propósito de se assemelhar a um relatório de vendas real, com diversas demonstrações e detalhes para melhor expor todas as informações relevantes de uma empresa.
 Este projeto possui inúmeras funcionalidades, as quais detalharemos mais adiante.
 
 Projeto desenvolvido durante o **Bootcamp de Ciência de Dados com Python** da [DIO](https://www.dio.me/en).
